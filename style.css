@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(243, 220, 11);
+}
+
+#score {
+    font-size: 28px;
+    color: blue;
+    float: left;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+#timer {
+    font-size: 28px;
+    color: blue;
+    float: right;
+    margin-right: 100px;
+    font-weight: 600;
+}
+
+#sketch_to_be_drawn {
+    color: rgb(224, 10, 124);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(124, 3, 34);
+    font-weight: 600;
+    background-color: rgb(242, 243, 170);
+}
+
+#show_sketch {
+    font-size: 23;
+    float: right;
+    margin-right: 20px;
+}
+
+#your_sketch {
+    color: rgb(12, 92, 146);
+    font-size: 26px;
+}
+
+#confidence {
+    color: rgb(12, 92, 146);
+    font-size: 26px;
+}
